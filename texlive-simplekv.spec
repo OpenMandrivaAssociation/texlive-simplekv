@@ -1,6 +1,6 @@
 Name:		texlive-simplekv
-Version:	64578
-Release:	2
+Version:	68439
+Release:	1
 Summary:	A simple key/value system for TeX and LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/simplekv
