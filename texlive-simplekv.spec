@@ -3,7 +3,7 @@ Version:	68439
 Release:	1
 Summary:	A simple key/value system for TeX and LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/simplekv
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/simplekv
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/simplekv.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/simplekv.doc.r%{version}.tar.xz
